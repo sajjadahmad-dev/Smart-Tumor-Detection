@@ -3,3 +3,8 @@ ultralytics==8.3.15
 Pillow==10.4.0
 numpy==1.26.4
 opencv-python==4.8.0.76
+requests
+reportlab
+groq
+
+
